@@ -1,0 +1,14 @@
+{
+  "name": "nchat",
+  "version": "1.0.0",
+  "description": "node.js chat",
+  "private": true,
+  "main": "js/main.js",
+  "author": "Maksym Levytskyi",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.8.0",
+    "pino": "^8.6.1",
+    "ws": "^8.8.1"
+  }
+}
